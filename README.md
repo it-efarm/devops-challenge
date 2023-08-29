@@ -2,8 +2,8 @@
 
 ## Requirements
 
-- nodejs^18
-- docker^20
+- nodejs 18.x
+- docker
 
 ## The Challenge
 
